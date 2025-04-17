@@ -27,9 +27,9 @@ Replace the paths above with your actual image files in a Screenshot 2024-05-16 
  REST API – For communicating with the Gemini service
  Provider – For state management (optional based on your code)
 
-# 🧑‍💻 Installation & Setup
-  git clone https://github.com/your-username/ai-chat-gemini.git
-  cd ai-chat-gemini
+# 🧑‍💻 Installation & Setup <br>
+  git clone https://github.com/sonujaiswal450/AI-chat-App.git<br>
+  cd ai-chat-gemini<br>
   flutter pub get
 # 🔑 Set up Gemini API Key
   1. Create a .env file or set your key in the code.
