@@ -18,7 +18,7 @@
 🚀 Screenshots
 
 ![AI CHAT APP UI](https://github.com/sonujaiswal450/AI-chat-App/blob/main/Screenshot%202024-05-16%20173840.png)
-![AI CHAT APP UI]()
+![AI CHAT APP UI](https://github.com/sonujaiswal450/AI-chat-App/blob/main/Screenshot%202024-05-16%20174117.png)
 
 # 🛠️ Tech Stack
  Flutter – Frontend framework for cross-platform UI
