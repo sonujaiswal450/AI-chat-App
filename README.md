@@ -17,8 +17,8 @@
  ⚙️ Clean Architecture – Follows best practices for scalable and maintainable code.
 🚀 Screenshots
 
-Home Screen	     Chat Interface
-Replace the paths above with your actual image files in a Screenshot 2024-05-16 173840.png folder.
+![AI CHAT APP UI](https://github.com/sonujaiswal450/Random_username_generator/blob/main/Screenshot%202025-01-19%20131156.png)
+![AI CHAT APP UI](https://github.com/sonujaiswal450/Random_username_generator/blob/main/Screenshot%202025-01-19%20131300.png)
 
 # 🛠️ Tech Stack
  Flutter – Frontend framework for cross-platform UI
