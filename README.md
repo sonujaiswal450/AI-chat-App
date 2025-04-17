@@ -17,8 +17,8 @@
  ⚙️ Clean Architecture – Follows best practices for scalable and maintainable code.
 🚀 Screenshots
 
-![AI CHAT APP UI](https://github.com/sonujaiswal450/Random_username_generator/blob/main/Screenshot%202025-01-19%20131156.png)
-![AI CHAT APP UI](https://github.com/sonujaiswal450/Random_username_generator/blob/main/Screenshot%202025-01-19%20131300.png)
+![AI CHAT APP UI](https://github.com/sonujaiswal450/AI-chat-App/blob/main/Screenshot%202024-05-16%20173840.png)
+![AI CHAT APP UI]()
 
 # 🛠️ Tech Stack
  Flutter – Frontend framework for cross-platform UI
