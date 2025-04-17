@@ -18,7 +18,7 @@
 🚀 Screenshots
 
 Home Screen	     Chat Interface
-Replace the paths above with your actual image files in a screenshots/ folder.
+Replace the paths above with your actual image files in a Screenshot 2024-05-16 173840.png folder.
 
 # 🛠️ Tech Stack
  Flutter – Frontend framework for cross-platform UI
